@@ -1,0 +1,1 @@
+{"version":3,"file":"generic-soap-api-error.js","sourceRoot":"","sources":["../../../src/soap/errors/generic-soap-api-error.ts"],"names":[],"mappings":";;;AAOA,qDAAgD;AAEhD;;GAEG;AACH,MAAa,mBAAoB,SAAQ,6BAAY;IACpD;;;;OAIG;IACH,kDAAkD;IAC3C,mBAAmB,CAAC,CAAY;QACtC,OAAO,CAAC,CAAC,uBAAuB,EAAE,wCAAwC,CAAC,CAAC;IAC7E,CAAC;CACD;AAVD,kDAUC"}

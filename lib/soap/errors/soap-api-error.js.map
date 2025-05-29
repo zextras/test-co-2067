@@ -1,0 +1,1 @@
+{"version":3,"file":"soap-api-error.js","sourceRoot":"","sources":["../../../src/soap/errors/soap-api-error.ts"],"names":[],"mappings":";;;AAQA,MAAsB,YAAa,SAAQ,KAAK;IACzB;IAAtB,YAAsB,KAAgB;QACrC,KAAK,CAAC,KAAK,CAAC,MAAM,CAAC,IAAI,CAAC,CAAC;QADJ,UAAK,GAAL,KAAK,CAAW;IAEtC,CAAC;CAGD;AAND,oCAMC"}

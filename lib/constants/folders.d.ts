@@ -1,0 +1,30 @@
+export declare const FolderActionsType: {
+    readonly NEW: "new";
+    readonly MOVE: "move";
+    readonly DELETE: "delete";
+    readonly EDIT: "edit";
+    readonly EMPTY: "empty";
+    readonly REMOVE_FROM_LIST: "removeFromList";
+    readonly SHARES_INFO: "sharesInfo";
+    readonly SHARE: "share";
+    readonly MARK_ALL_READ: "read";
+};
+export declare const FOLDERS: {
+    USER_ROOT: string;
+    INBOX: string;
+    TRASH: string;
+    SPAM: string;
+    SENT: string;
+    DRAFTS: string;
+    CONTACTS: string;
+    TAGS: string;
+    CONVERSATIONS: string;
+    CALENDAR: string;
+    ROOT: string;
+    NOTEBOOK: string;
+    AUTO_CONTACTS: string;
+    IM_LOGS: string;
+    TASKS: string;
+    BRIEFCASE: string;
+    LAST_SYSTEM_FOLDER_POSITION: string;
+};

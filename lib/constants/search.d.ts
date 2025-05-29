@@ -1,0 +1,22 @@
+export declare const SEARCH_QUERY_PREFIXES: {
+    content: string;
+    from: string;
+    to: string;
+    cc: string;
+    subject: string;
+    in: string;
+    has: string;
+    filename: string;
+    type: string;
+    attachment: string;
+    is: string;
+    date: string;
+    after: string;
+    before: string;
+    size: string;
+    larger: string;
+    smaller: string;
+    solo: string;
+    tag: string;
+    priority: string;
+};

@@ -1,0 +1,1 @@
+{"version":3,"file":"hooks.js","sourceRoot":"","sources":["../../src/integrations/hooks.ts"],"names":[],"mappings":";;;AAOA,kEAAoE;AAEpE,mEAA8D;AAGvD,MAAM,eAAe,GAAG,GAA0B,EAAE;IAC1D,MAAM,CAAC,YAAY,EAAE,oBAAoB,CAAC,GACzC,IAAA,0CAAsB,EAAwB,eAAe,CAAC,CAAC;IAChE,IAAI,oBAAoB,EAAE,CAAC;QAC1B,OAAO,YAAY,CAAC;IACrB,CAAC;IACD,OAAO,2CAAmB,CAAC;AAC5B,CAAC,CAAC;AAPW,QAAA,eAAe,mBAO1B"}
