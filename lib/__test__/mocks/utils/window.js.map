@@ -1,1 +1,0 @@
-{"version":3,"file":"window.js","sourceRoot":"","sources":["../../../../src/__test__/mocks/utils/window.ts"],"names":[],"mappings":";;;AAAA;;;;GAIG;AACI,MAAM,kBAAkB,GAAG,CAAC,QAA2B,EAAQ,EAAE;IACvE,MAAM,CAAC,cAAc,CAAC,MAAM,EAAE,UAAU,EAAE;QACzC,KAAK,EAAE;YACN,GAAG,MAAM,CAAC,QAAQ;YAClB,GAAG,QAAQ;SACX;QACD,QAAQ,EAAE,IAAI;KACd,CAAC,CAAC;AACJ,CAAC,CAAC;AARW,QAAA,kBAAkB,sBAQ7B"}
